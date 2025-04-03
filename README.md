@@ -8,15 +8,14 @@ This repository is not meant to serve as an exhaustive guide covering every topi
 
 ## Table of Contents
 
-- [Usage guide]() - 
-- [Purpose]() -
-- [Summary]() - 
-- [links]() -
+- [Usage guide](#usage) - 
+- [Purpose of this repository](#purpose) -
+- [Repository Summary](#repository-summary) - 
+- [links](#relevant-links) -
  
-
 ## Usage
 
-## Purpose
+## Purpose of this repository
 
 ## Repository Summary
 
