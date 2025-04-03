@@ -1,13 +1,22 @@
-# Welcome to My Linux Notes
+# Welcome to My Linux Notes (WIP)
 
 Welcome to my Linux notes repository! This collection is designed to help you navigate the world of Linux—from basic commands and kernel development.
 
+## Disclaimer:
+
+This repository is not meant to serve as an exhaustive guide covering every topic in detail. It consists of personal notes and a general outline intended for quick reference. For comprehensive information, detailed explanations, and additional learning resources, please refer to the linked documentations.
+
 ## Table of Contents
 
-- [Introduction](./INTRODUCTION.md) - An overview of Linux fundamentals and what you can expect from these notes.
-- [Installation and Setup](./installation.md) - Step-by-step guides on installing popular Linux distributions and initial system setup.
-- [Basic Commands](./commands.md) - A quick reference guide to essential Linux commands and their usage.
+- [Usage guide]() - 
+- [Purpose]() -
+- [Summary]() - 
+- [links]() -
+ 
 
+## Usage
+
+## Purpose
 
 ## Repository Summary
 
@@ -16,10 +25,4 @@ This repository is organized into several key sections, each covering different 
 - **Installation and Setup:** Helps users get started by walking them through installation and basic configuration.
 - **Basic Commands:** Acts as a quick reference for day-to-day Linux command usage.
 
-
-Happy learning and enjoy your journey into Linux!
-
----
-
-*Note: Replace the relative links (e.g., `./INTRODUCTION.md`) with the correct paths in your repository if they differ.*
-
+## Relevant links
